@@ -1,4 +1,4 @@
-# Welcome to PHP-Native-MVC-Pattern (With-Auth) 👋
+# Welcome to PHP-Native-MVC-Pattern 👋
 
 If you will build your own PHP project in MVC with router, you can clone this ready to use MVC pattern repo.
 Works with bootstrap 5.
